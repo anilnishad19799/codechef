@@ -1,4 +1,4 @@
-#  https://www.codechef.com/problems/XYSTR
+#   
 
 test_cases = int(input())
 
